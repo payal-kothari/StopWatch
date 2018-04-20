@@ -1,0 +1,71 @@
+
+
+html {
+    background: linear-gradient(to bottom right, #3e8bad 0,#62d9df 25%,#f2f2f2 48%);
+    background-repeat: no-repeat;
+    font-family: "HelveticaNeue-Light";
+    height:500%;
+}
+
+h1 {
+
+    margin-left: 35%;
+    font-size: 70px;
+}
+
+p {
+    height: 120px;
+    margin-left: 40%;
+}
+
+
+#startBtn {
+    margin-right: 10%;
+    margin-left: 15%;
+}
+
+#stopBtn {
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+#resetBtn {
+
+    margin-left: 10%;
+}
+
+button:focus {
+    outline: none;
+    background: greenyellow;
+}
+
+
+button {
+    border-radius: 12px;
+    font-size: 50px;
+    -webkit-animation-name: bounce;
+    -webkit-animation-duration: 8s  ;
+    animation: bounce 8s infinite;
+    border-radius: 12px;
+    background-color: white;
+    border: 2px solid #000000;
+}
+
+button:hover {
+    background-color: yellowgreen;
+    color: white;
+}
+
+
+@-webkit-keyframes bounce {
+    50%{
+        transform: translateY(30px);
+    }
+}
+
+
+
+
+
+
+
