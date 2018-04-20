@@ -1,3 +1,3 @@
 # StopWatch
 
-<iframe width="560" height="315" src="https://gfycat.com/DimwittedSparklingKitty" frameborder="0" allowfullscreen></iframe>
+[![Demo CountPages alpha](https://thumbs.gfycat.com/DimwittedSparklingKitty-size_restricted.gif)]
