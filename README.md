@@ -1,3 +1,3 @@
 # StopWatch
 
-!(https://gfycat.com/DimwittedSparklingKitty)
+[![Video](https://gfycat.com/DimwittedSparklingKitty)
